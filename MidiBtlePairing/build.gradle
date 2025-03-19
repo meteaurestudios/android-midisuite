@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace "com.mobileer.example.midibtlepairing"
     compileSdkVersion 33
 
     defaultConfig {

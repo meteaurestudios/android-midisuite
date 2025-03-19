@@ -4,6 +4,7 @@ def versionMajor = 1
 def versionMinor = 8
 
 android {
+    namespace "com.mobileer.midisynthexample"
     compileSdkVersion 33
 
     defaultConfig {
